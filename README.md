@@ -2,7 +2,9 @@
 Springboot application to send emails using Gmail SMTP protocol
 
 
-Springboot version: "3.1.0"  Java version: java version "1.8.0_291" (Java 8)  IDE: IntelliJ IDEA
+Springboot version: "3.1.0"  
+Java version: "1.8.0_291" (Java 8)  
+IDE: IntelliJ IDEA
 
 Dependancies: Java Mail Sender
 
